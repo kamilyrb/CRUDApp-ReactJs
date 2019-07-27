@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Kamil Yarbaşı",
+      "department": "Bilişim",
+      "salary": "3750",
+      "id": "unique-1"
+    },
+    {
+      "id": "unique-2",
+      "name": "İsmet Karşıyaka",
+      "salary": "4000",
+      "department": "Hukuk"
+    },
+    {
+      "name": "Furkan Dereli",
+      "department": "Endüstri",
+      "salary": "6400",
+      "id": "84uXYhU"
+    },
+    {
+      "name": "Sefer Furkan",
+      "department": "Elektrik",
+      "salary": "3790",
+      "id": "8ApIn1i"
+    },
+    {
+      "name": "Hasan Esenlikçi",
+      "department": "Besyö",
+      "salary": "9620",
+      "id": "e6XAstc"
+    },
+    {
+      "name": "Mehmet Türk",
+      "department": "Pazarlama",
+      "salary": "7600",
+      "id": "lmfKtIt"
+    }
+  ]
+}
